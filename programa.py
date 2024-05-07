@@ -13,7 +13,7 @@ def suma_1_al_10():
 
 if __name__ == "__main__":
     resultado = suma_1_al_10()  # Se llama a la función suma_1_al_10() para obtener el resultado
-    # Se imprime el resultado de la suma
+    # Se imprime el resultado de la suma dd
 
 # 3 Crea variables para almacenar tu edad, nombre y estatura, e imprímelas en pantalla.
 def imprimir_datos_personales(nombre, edad, estatura):
